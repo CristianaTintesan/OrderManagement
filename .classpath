@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tinte/OneDrive/Desktop/TP/barcodes-7.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tinte/OneDrive/Desktop/TP/font-asian-7.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tinte/OneDrive/Desktop/TP/forms-7.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tinte/OneDrive/Desktop/TP/hyph-7.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tinte/OneDrive/Desktop/TP/io-7.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tinte/OneDrive/Desktop/TP/kernel-7.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tinte/OneDrive/Desktop/TP/layout-7.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tinte/OneDrive/Desktop/TP/pdfa-7.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tinte/OneDrive/Desktop/TP/pdftest-7.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tinte/OneDrive/Desktop/TP/sign-7.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tinte/OneDrive/Desktop/TP/styled-xml-parser-7.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tinte/OneDrive/Desktop/TP/svg-7.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tinte/OneDrive/Desktop/TP/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
